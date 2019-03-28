@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2017\Projects\MITService\MITService\bin\Debug\MITService.dll.config
+c:\users\student\documents\visual studio 2017\Projects\MITService\MITService\bin\Debug\MITService.dll
+c:\users\student\documents\visual studio 2017\Projects\MITService\MITService\bin\Debug\MITService.pdb
+c:\users\student\documents\visual studio 2017\Projects\MITService\MITService\obj\Debug\MITService.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\MITService\MITService\obj\Debug\MITService.dll
+c:\users\student\documents\visual studio 2017\Projects\MITService\MITService\obj\Debug\MITService.pdb
